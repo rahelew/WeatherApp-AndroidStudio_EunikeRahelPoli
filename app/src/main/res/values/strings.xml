@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">WEATHER APP</string>
+    <string name="author">Eunike Rahel Poli</string>
+    <string name="searchbb">SEARCH</string>
+    <string name="manado">
+MANADO
+</string>
+
+</resources>
